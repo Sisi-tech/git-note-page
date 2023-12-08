@@ -3,7 +3,7 @@ import './index.css'
 function App() {
 
   return (
-    <div className='w-screen bg-black h-screen flex flex-col items-center align-center  text-gray-200 pt-10 m-0'>
+    <div className='w-screen bg-black h-auto flex flex-col items-center align-center  text-gray-200 pt-10 py-20 m-0'>
       <div className='py-4 text-2xl font-mono'>
         <h2>Git & GitHub</h2>
       </div>
